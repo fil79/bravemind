@@ -33,7 +33,7 @@ class Csv
 
 			$this->host="localhost"; 
 			$this->username="root"; 
-			$this->password="r1999112"; 
+			$this->password="password"; 
 			$this->db="test"; 
 
      }
